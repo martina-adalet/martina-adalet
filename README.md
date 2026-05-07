@@ -5,30 +5,42 @@
 ---
 
 ## 🇨🇱 Sobre mí
-Bienvenida/o a mi espacio. Soy **Martina Adalet Tapia Rosales**, una apasionada de la tecnología y la economía. Actualmente me encuentro perfeccionando mis habilidades en Ciencia de Datos con un objetivo claro: **orientar mi carrera profesional hacia el Análisis Macroeconómico y las Finanzas Cuantitativas**.
+¡Bienvenida/o! Soy **Martina Adalet Tapia Rosales**, una profesional apasionada por la intersección entre la tecnología y la economía. He completado mi formación en Ciencia de Datos con un enfoque estratégico: **orientar mi carrera hacia el Análisis Macroeconómico y las Finanzas Cuantitativas**.
 
-Mi filosofía de trabajo en construcción, *The Adalet Method*, busca combinar el rigor analítico necesario para entender los mercados con la **Eficiencia Algorítmica y la Sobriedad Digital**, promoviendo un desarrollo tecnológico sostenible desde mis primeros pasos en la industria.
+[cite_start]Mi metodología, *The Adalet Method*, integra el rigor del análisis financiero con la **Eficiencia Algorítmica y la Sobriedad Digital**[cite: 1114, 5546]. [cite_start]Creo firmemente en el desarrollo de soluciones de alta precisión que sean, a su vez, sostenibles y responsables con el consumo de recursos[cite: 4647, 5561].
 
-### 📈 Hacia dónde me dirijo (Mis intereses)
-* **Macro Analysis:** Entender indicadores globales para proyecciones basadas en datos.
-* **Quant Finance:** Aprender a modelar matemáticamente activos financieros.
-* **Sustainable Tech:** Escribir código eficiente y de bajo impacto ambiental.
+### 💼 Tech Stack & Herramientas
+[cite_start]Mi caja de herramientas técnicas para transformar datos complejos en conocimiento accionable[cite: 98, 2057]:
 
-### 💼 Tech Stack & Herramientas en aprendizaje
+**Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-1B263B?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1B263B?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-E5989B?style=for-the-badge&logo=jupyter&logoColor=white)
-![Finanzas](https://img.shields.io/badge/Finance_Interest-E5989B?style=for-the-badge&logo=google-sheets&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-E5989B?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data Analysis & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-1B263B?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-E5989B?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1B263B?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-E5989B?style=for-the-badge&logo=python&logoColor=white)
+
+**Machine Learning & Deep Learning**
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-1B263B?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-E5989B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-1B263B?style=for-the-badge&logo=keras&logoColor=white)
+
+**Big Data & Cloud**
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E5989B?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-1B263B?style=for-the-badge&logo=apachespark&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-E5989B?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
 ## 🇺🇸 About Me
-Welcome to my space. I'm **Martina Adalet Tapia Rosales**, passionate about technology and economics. I am currently honing my Data Science skills with a clear goal: **to orient my career towards Macroeconomic Analysis and Quantitative Finance**.
+Welcome to my space. I'm **Martina Adalet Tapia Rosales**, driven by the intersection of technology and economics. Having completed my Data Science training, my goal is clear: **to build a career in Macroeconomic Analysis and Quantitative Finance**.
 
-My growing work philosophy, *The Adalet Method*, seeks to combine the analytical rigor required to understand markets with **Algorithmic Efficiency and Digital Sobriety**, promoting sustainable tech development from my very first steps in the industry.
+[cite_start]My work philosophy, *The Adalet Method*, combines the analytical rigor required for financial markets with **Algorithmic Efficiency and Digital Sobriety**[cite: 35, 4647]. [cite_start]I am committed to developing high-precision data solutions that are both sustainable and resource-efficient[cite: 5561, 5572].
 
 ### 📂 Portafolio / Portfolio
-Explora mis proyectos de estudio y algoritmos en:
+Explora mis proyectos y algoritmos certificados en:
 👉 [Bootcamp: Fundamentos de Ciencia de Datos](https://github.com/martina-adalet/Bootcamp-Fundamentos-Ciencia-de-Datos)
 
 ---
